@@ -14,7 +14,7 @@
 | [**pm-playbook**](https://github.com/LakshmiPrasanna93/pm-playbook) | PRD template, prioritization framework and AI launch checklist I use | Live |
 | [**Portfolio site**](https://lakshmiprasanna93.github.io) | Case studies, built and documented like a product ([repo](https://github.com/LakshmiPrasanna93/LakshmiPrasanna93.github.io)) | Live |
 | **Foldline** | AI agent: PRD + working prototype | Coming soon |
-| **pm-claude-skills** | Claude skills that automate everyday PM workflows | Coming soon |
+| [**pm-claude-skills**](https://github.com/LakshmiPrasanna93/pm-claude-skills) | Claude skills that automate everyday PM workflows | In progress |
 
 #### 🔨 Currently building
 Shipping one PM / AI project to GitHub every month.
