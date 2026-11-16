@@ -1,6 +1,6 @@
-### Hi, I'm Lakshmi 👋
+### Hi, I'm Lakshmi Prasanna 👋
 
-**Senior PM building enterprise admin platforms and AI agents** · Bengaluru, India
+**Senior PM building enterprise admin platforms and AI agents** · Fleet safety / video telematics SaaS · Bengaluru, India
 
 #### 🎯 What I work on
 - **AI assistants, scoping to GA:** eval gates (200+ case suites, P0 thresholds), guardrails and cost discipline (40–45% fewer input tokens per agent)
@@ -11,7 +11,7 @@
 #### 🚀 Featured projects
 | Project | What it is | Status |
 |---|---|---|
-| [**pm-playbook**](https://github.com/LakshmiPrasanna93/pm-playbook) | The PRD template and prioritization framework I use | Live |
+| [**pm-playbook**](https://github.com/LakshmiPrasanna93/pm-playbook) | PRD template, prioritization framework and AI launch checklist I use | Live |
 | [**Portfolio site**](https://lakshmiprasanna93.github.io) | Case studies, built and documented like a product ([repo](https://github.com/LakshmiPrasanna93/LakshmiPrasanna93.github.io)) | Live |
 | **Foldline** | AI agent: PRD + working prototype | Coming soon |
 | **pm-claude-skills** | Claude skills that automate everyday PM workflows | Coming soon |
