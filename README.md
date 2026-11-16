@@ -20,4 +20,4 @@
 Shipping one PM / AI project to GitHub every month.
 
 #### 📫 Reach me
-[Email](mailto:lakshmi.dsce@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lakshmi-prasanna-33449879/) · [Portfolio](https://lakshmiprasanna93.github.io)
+[Email](mailto:lakshmi.dsce@gmail.com) · [Resume (PDF)](https://lakshmiprasanna93.github.io/Lakshmi_Prasanna_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/lakshmi-prasanna-33449879/) · [Portfolio](https://lakshmiprasanna93.github.io)
