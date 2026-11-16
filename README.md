@@ -1,13 +1,13 @@
 ### Hi, I'm Lakshmi Prasanna 👋
 
-**Senior PM: I ship AI agents and enterprise admin platforms at work, and prototype new AI agent ideas on my own** · Bengaluru, India
+**Senior PM: shipping AI agents at work, prototyping new ones on my own** · Bengaluru, India
 
 #### 🏢 Shipped work (anonymized case studies)
 | Case study | What I did | Outcome |
 |---|---|---|
-| [**Enterprise AI assistant, scoping to GA**](https://lakshmiprasanna93.github.io/#work) | 200+ case eval suite with P0 go/no-go gates; single-agent v1 by design | GA across 60 top-tier accounts |
-| [**Cutting agent token cost**](https://lakshmiprasanna93.github.io/#work) | Rewrote sub-agent instructions: rule IDs, gold examples, ID-based handoffs | 40–45% fewer input tokens, eval scores held |
-| [**Audit logs, zero to GA**](https://lakshmiprasanna93.github.io/#work) | Discovery, field-level diffs, tiered retention, pricing drivers | PRD to GA in 6 months |
+| [**Enterprise AI assistant, scoping to GA**](https://lakshmiprasanna93.github.io/#case-ai-assistant) | 200+ case eval suite with P0 go/no-go gates; single-agent v1 by design | GA across 60 top-tier accounts |
+| [**Cutting agent token cost**](https://lakshmiprasanna93.github.io/#case-token-cost) | Rewrote sub-agent instructions: rule IDs, gold examples, ID-based handoffs | 40–45% fewer input tokens, eval scores held |
+| [**Audit logs, zero to GA**](https://lakshmiprasanna93.github.io/#case-audit-logs) | Discovery, field-level diffs, tiered retention, pricing drivers | PRD to GA in 6 months |
 
 #### 🧪 Prototype lab (one AI agent idea a month)
 | Month | Prototype | Problem | Status |
