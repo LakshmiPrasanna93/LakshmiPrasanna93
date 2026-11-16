@@ -1,3 +1,5 @@
+<img src="headshot.jpg" alt="Lakshmi Prasanna" width="120" align="right">
+
 ### Hi, I'm Lakshmi Prasanna 👋
 
 **Senior PM: shipping AI agents at work, prototyping new ones on my own** · Bengaluru, India
